@@ -74,7 +74,7 @@
                     <option name="event" >Select Your Event</option>
                     <option name="event" >Coding</option>
                     <option name="event" >Cube Solving</option>
-                    <option name="event" >Quize</option>
+                    <option name="event" >Quiz</option>
                     <option name="event" >Debate</option>
                     <option name="event" >Rapid Fire</option>
                 </select>
